@@ -1,1 +1,1 @@
-# Vanshika-Dhaka
+# 3rd Year B.Tech Computer Science at NIET Greater Noida 🎓💻✨\nThis repository contains projects and assignments for the 3rd year of B.Tech in Computer Science. Feel free to explore!
